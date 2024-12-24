@@ -1,0 +1,9 @@
+
+model:
+  checkpoint: /home/u220220942121/jupyterlab/MDRL/ckpt/diff_455000.pt
+
+sample:
+  seed: 2023
+  batch_size: 512
+  num_mols: 3000
+  save_traj_prob: 0

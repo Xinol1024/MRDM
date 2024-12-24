@@ -1,0 +1,5 @@
+category,name,minimize,mu,sigma,file,model,n_top,agg
+qed,qed,False,0.75,0.1,,,,
+sa,sa,True,3,0.5,,,,
+ligand_efficiency,MTOR_le,False,0.8,0.3,./RL_utils/ligand_binding_model/xgboost/P42345_xgbr_ligand_model.pkl,,,
+ligand_efficiency,MTEK1_le,False,0.8,0.3,./RL_utils/ligand_binding_model/xgboost/Q02750_xgbr_ligand_model.pkl,,,
